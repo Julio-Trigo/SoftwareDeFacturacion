@@ -1,0 +1,12 @@
+Sql Server
+Usuario: prueba
+Contraseña: prueba
+
+Java
+Admin
+Usuario: Admin
+Contraseña: 244466666
+
+Empleado
+Usuario: Empleado
+Contraseña: 1235
